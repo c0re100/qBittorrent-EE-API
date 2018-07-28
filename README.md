@@ -55,5 +55,5 @@ Default ban time: 1hour
 
 ### Example Request
 ```
-curl -X POST -F 'ip=1.2.3.4' http://hostname:port/command/blockPeer
+curl -X POST -F 'ip=1.2.3.4' http://hostname:port/command/tempblockPeer
 ```
